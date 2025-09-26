@@ -1,2 +1,2 @@
 # docker-lab
-Practice repo for learning Git basics.
+Practice repo for learning Docker basics.
